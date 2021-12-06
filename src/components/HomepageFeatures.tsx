@@ -16,32 +16,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    image: '/img/undraw_docusaurus_mountain.svg',
+    title: 'Uncertain Times',
+    image: '/img/undraw_working_remotely.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The world has presented itself with pelnty of unforseen challenges. Today, more than ever, it's imperative to understand how these and other hardships can impact your employees.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    image: '/img/undraw_docusaurus_tree.svg',
+    title: 'Workplace Engagement Experts',
+    image: '/img/undraw_good_team.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+  Studies show that the key to improving workplace productivity is happiness. Let our powerful set of tools guide you in your journey.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    image: '/img/undraw_docusaurus_react.svg',
+    title: 'Powered by Data',
+    image: '/img/undraw_financial_data.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        All of our products and services are backed with industry research and powerful data and insights that allow you to see in near real time fashion improvements made in employee engagement.
       </>
     ),
   },
