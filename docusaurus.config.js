@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'grateful8 consulting ltd',
   tagline: 'Helping Businesses Reinvest In Their Greatest Capital - Human',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://grateful8.us',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'frameofmind', // Usually your GitHub org/user name.
+  projectName: 'grateful8-docs', // Usually your repo name.
 
   presets: [
     [
